@@ -1,0 +1,18 @@
+{
+    "name": "pagecarbajal/rockdeveloper_twenty_seventeen",
+    "description": "Child Theme for Twenty Seventeen",
+    "type": "WordPress Child Theme",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Page Carbajal",
+            "email": "social@iaaxpage.com"
+        }
+    ],
+    "autoload":{
+        "psr-4": {
+            "RockDeveloper2017\\": "src/"
+        }
+    },
+    "require": {}
+}
